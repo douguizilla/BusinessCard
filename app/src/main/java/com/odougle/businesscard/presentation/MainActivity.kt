@@ -1,7 +1,8 @@
-package com.odougle.businesscard
+package com.odougle.businesscard.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.odougle.businesscard.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
