@@ -34,7 +34,6 @@ class MainActivity : AppCompatActivity() {
     private fun getAllBusinessCard(){
         mainViewModel.getAll().observe(this, { businessCards ->
             adapter.submitList(businessCards)
-
         })
     }
 }

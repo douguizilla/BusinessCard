@@ -8,4 +8,5 @@
     <string name="label_hint_empresa">Empresa</string>
     <string name="label_hint_cor">Cor</string>
     <string name="label_button_confirmar">Confirmar</string>
+    <string name="label_show_success">Cartão cadastrado com sucesso!</string>
 </resources>
