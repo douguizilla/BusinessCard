@@ -18,8 +18,8 @@ class AddBusinessCardActivity : AppCompatActivity() {
             finish()
         }
 
-        binding.btnConfirmmar.setOnClickListener {
-
+        binding.btnConfirmar.setOnClickListener {
+            
         }
     }
 }
