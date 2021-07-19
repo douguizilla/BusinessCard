@@ -6,6 +6,7 @@ import android.os.Bundle
 import androidx.activity.viewModels
 import com.odougle.businesscard.App
 import com.odougle.businesscard.databinding.ActivityMainBinding
+import com.odougle.businesscard.util.Image
 
 class MainActivity : AppCompatActivity() {
     private val binding by lazy {ActivityMainBinding.inflate(layoutInflater)}
@@ -28,6 +29,10 @@ class MainActivity : AppCompatActivity() {
         binding.tvFloatButton.setOnClickListener {
             val intent = Intent(this@MainActivity, AddBusinessCardActivity::class.java)
             startActivity(intent)
+        }
+
+        adapter.listernerShare = { card ->
+            Image.share(this@MainActivity, card)
         }
     }
 
