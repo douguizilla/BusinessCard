@@ -7,6 +7,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <com.google.android.material.card.MaterialCardView
+        android:id="@+id/mcv_content"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:checkable="true"
