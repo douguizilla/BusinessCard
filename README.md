@@ -25,7 +25,7 @@ Ao confirmar, voltará para a tela principal com o cartão adicionado armazenado
 
 ![Filled Main](https://github.com/douguizilla/BusinessCard/blob/master/appscreenshots/filledMain.png)
 
-Ao clicar em um dos cartões uma imagem é gerada do mesmo, salva em memória e então é oferecido o compartilhamento do cartão de visita através de apps terceiros:
+Ao clicar em um dos cartões uma imagem dele é gerada, salva em memória e, então, é oferecido o compartilhamento do cartão de visita através de apps terceiros:
 
 ![Share](https://github.com/douguizilla/BusinessCard/blob/master/appscreenshots/share.png)
 
