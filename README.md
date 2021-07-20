@@ -11,27 +11,27 @@ Foram utilizados conceitos como:
 
 A tela principal ao iniciar o app pode ser vista abaixo:
 
-![Main](C:\Users\dougl\Desktop\BusinessCard\appscreenshots\main.png)
+![Main](https://github.com/douguizilla/BusinessCard/blob/master/appscreenshots/main.png)
 
 Ao clicar no Float Action Button, será redirecionado para a tela de adição de cartão de visita:
 
-![Add Business Card](C:\Users\dougl\Desktop\BusinessCard\appscreenshots\addCard.png)
+![Add Business Card](https://github.com/douguizilla/BusinessCard/blob/master/appscreenshots/addCard.png)
 
 O usuário deve preencher como no exemplo (com a cor em hexadecimal):
 
-![Filled Add Business Card](C:\Users\dougl\Desktop\BusinessCard\appscreenshots\filledAddCard.png)
+![Filled Add Business Card](https://github.com/douguizilla/BusinessCard/blob/master/appscreenshots/filledAddCard.png)
 
 Ao confirmar, voltará para a tela principal com o cartão adicionado armazenado em memória (persistência) e exibido em tela. Fiz algumas inserções para mostrar como ficará ao adicionar mais de um cartão:
 
-![Filled Main](C:\Users\dougl\Desktop\BusinessCard\appscreenshots\filledMain.png)
+![Filled Main](https://github.com/douguizilla/BusinessCard/blob/master/appscreenshots/filledMain.png)
 
 Ao clicar em um dos cartões uma imagem é gerada do mesmo, salva em memória e então é oferecido o compartilhamento do cartão de visita através de apps terceiros:
 
-![Share](C:\Users\dougl\Desktop\BusinessCard\appscreenshots\share.png)
+![Share](https://github.com/douguizilla/BusinessCard/blob/master/appscreenshots/share.png)
 
 Na memória:
 
-![Saved Image](C:\Users\dougl\Desktop\BusinessCard\appscreenshots\savedImage.png)
+![Saved Image](https://github.com/douguizilla/BusinessCard/blob/master/appscreenshots/savedImage.png)
 
 Estou a disposição para novas ideias!
 
