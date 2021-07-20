@@ -35,4 +35,4 @@ Na memória:
 
 Estou a disposição para novas ideias!
 
-Entre em contato comigo pelo linkedin: [Douglas Gomes](https://cutt.ly/dgplinkedin)
+Entre em contato comigo pelo linkedin: [Douglas Gomes](https://www.linkedin.com/in/douglasgomesdepaula/)
