@@ -1,6 +1,6 @@
 # Business Card
 
-Este aplicativo foi desenvolvido em kotlin para android apenas para fins didáticos. Sua funcionalidade é criar cartões de visita simples, permitindo que o usuário insira nome, telefone, email, empresa e defina a cor do cartão através de um valor hex (a definição de cor ainda está em andamento, pretendo colocar um seletor de cores para facilitar a escolha do usuário).
+Este aplicativo foi desenvolvido em kotlin para android apenas para fins didáticos através das aulas de um [Bootcamp](https://web.digitalinnovation.one/track/inter-android-developer?tab=path). Sua funcionalidade é criar cartões de visita simples, permitindo que o usuário insira nome, telefone, email, empresa e defina a cor do cartão através de um valor hex (a definição de cor ainda está em andamento, pretendo colocar um seletor de cores para facilitar a escolha do usuário).
 
 Foram utilizados conceitos como:
 
